@@ -1,1 +1,1 @@
-# Energy-consumption-week-1-task
+# Energy-Consumption-week-1-task
